@@ -17,6 +17,10 @@ I also have a YT video series here: https://www.youtube.com/watch?v=5REE6AnoFbc&
 **Wayback Archive**
 Wayback machine can be used to read some documentation on the website, but unfortuantely, none of the downloads work.
 
+Step By Step Assembly Guide:
+https://web.archive.org/web/20230530083225/https://jjrobots.com/scara-robotic-arm-assembly-guide/
+
+Code info:
 https://web.archive.org/web/20240305042534/https://www.jjrobots.com/pybot-control-app-code-arduino-code/
 
 
