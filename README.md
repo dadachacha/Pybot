@@ -1,6 +1,6 @@
 # Pybot
 
-Unfortunately, the JJrobots project for the awesome SCARA arm appears to be now defunct. 
+Unfortunately, the JJrobots project for the awesome SCARA arm appears to be defunct. As such, I've tried to cobble together some files that will hopefully help others wanting to continue working on this project.
 
 **Firmware**
 The original firmware I used for the Devia (Arduino based board) is in this repository. (Note: I offer no warranty or support for this- I'm just copying it because apparently the jjrobots website is no longer available). To control the Pybot Robotic Arm, you will need to upload the Arduino code to the DEVIA control board. 
